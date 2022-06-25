@@ -1,11 +1,11 @@
 # Aleshkevich Polina
-![me](photo_2021-02-23_18-11-55.jpg)
+<img src="photo_2021-02-23_18-11-55.jpg" alt="drawing" width="200"/>
 
 ## **Contact information:**
 * **Phone:** +375293091162
 * **E-mail:** aleshkvch@gmail.com
-* **Telegram:** [https://t.me/aleshkevch]
-* **GitHub:** [aleshkvch] (https://github.com/polina-aleshkevich)
+* **Telegram:** [aleshkvch](https://t.me/aleshkevch)
+* **GitHub:** [polina-aleshkevich](https://github.com/polina-aleshkevich)
 * **Location:** Minsk, Belarus
 ****
 ## **About Me:**
@@ -51,7 +51,7 @@ erat orci et libero. ");
 console.log(longestWord);
 ```
 ***
-## **Education**
+## **Education:**
 1. **Minsk Innovation University**
     * Faculty of Communication, Economy and Law; Economics and production management
 1. **LeverX Group**
